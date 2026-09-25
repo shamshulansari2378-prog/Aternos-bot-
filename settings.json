@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Block_smp_1234.aternos.me",
+    "ip": "survival_smp_1207.aternos.me",
 
-    "port": 45667,
+    "port": 24356,
     "version": "1.20.1",
     "try-creative": false
   },
